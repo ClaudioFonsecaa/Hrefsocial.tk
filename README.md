@@ -1,14 +1,16 @@
 # Rede_Social - https://hrefsocial.tk/
 
-    Projeto desevolvido para uma UFCD do curso Técnico Especialista de Tecnologia e Programação de Sistemas de Informação.
+    Projeto desevolvido para uma UFCD do curso Técnico Especialista 
+    de Tecnologia e Programação de Sistemas de Informação.
     
     
-    UFCD 5425 – consiste em implementar um projeto de sistemas de informação, dado uma visão global das diversas fases da 
-    realização prática, passado por definição, requisitos, especificações, desenvolvimento e ainda relatório e apresentação 
-    do projeto, com uma duração total da UFCD de 50 horas;    
+    UFCD 5425 – consiste em implementar um projeto de sistemas de informação, 
+    dado uma visão global das diversas fases da  realização prática, passado 
+    por definição, requisitos, especificações, desenvolvimento e ainda relatório 
+    e apresentação do projeto, com uma duração total da UFCD de 50 horas;    
     
-    Rede Social HREF é uma rede social onde os utilizadores podem compartilhar publicação em diferentes áreas de interesse
-    devidamente organizadas;
+    Rede Social HREF é uma rede social onde os utilizadores podem compartilhar 
+    publicação em diferentes áreas de interesse devidamente organizadas;
     
     O nome HREF da rede social foi dado baseado na tag de html <href> que significa hiperligação.
     
