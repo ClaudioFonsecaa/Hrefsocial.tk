@@ -1,5 +1,7 @@
 # Rede_Social - https://hrefsocial.tk/
 
+    ![alt text](http://http://hrefsocial.tk/logo_href_short.png)
+
     Projeto desevolvido para uma UFCD do curso Técnico Especialista 
     de Tecnologia e Programação de Sistemas de Informação.
     
